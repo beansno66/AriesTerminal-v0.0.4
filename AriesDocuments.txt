@@ -1,0 +1,28 @@
+Table of contents:
+
+1. Welcome
+
+2. How I made it very small
+
+3. The AriesLM, AriesRLM, AriesTerminal lore
+
+
+1. WELCOME:
+Hello, and welcome to the AriesTerminal Project. This project allows you to make and load models, Fast and simply instead of
+spending 2 hours of your life and heating up your room training a Large Language Model (LLM). This project does NOT use Any servers to speed
+it up or download assets. 
+
+
+2. HOW I MADE IT VERY SMALL:
+I didn't add a UI, That's why it's a terminal. And my models are not direct LLMs, they just perdict the next word of a Corpus, no neural network here.
+
+
+3. THE ARIESLM, ARIESRLM, ARIESTERMINAL LORE:
+The name "Aries" came from a recess game Me and my friend, My friend (Known as Jagger) is very good at making names, so the pretend ship AIs was nammed "Aries", "Atlas", "valcurin".
+Then I was at home, bored to core watching youtube videos. Then something sparked up in my head while watching a "How LLMs work" video. I opened Scratch 2 and made AriesLM.
+I wannted it to be a research project of mine, I learnned from my mistakes while making it, then, I became a better scratch pro. Then I kept making new versions, like AriesLM2.
+Then I kept doing that until I hit AriesLM18, I stopped making new models, instead I worked on AriesTerminal v0.0.1 Beta. I made AriesTerminal to load and make new models easy while
+saving space. I used turbowarp instead of Scratch 2 and 3. I needed to use packager and some Extensions Scratch did not have. Then I made Model files (.jmf2 and .jmf), Reasoning models.
+
+AriesRLM started off as a fast Reasoning model that is like 2.80KB in size. So I don't have a giant, ~20GB file eating my disk space. There are models the size of 80MB, but those are old ones and they
+don't work well. There isn't much lore yet because I just started making those models.
